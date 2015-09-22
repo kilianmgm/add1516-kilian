@@ -6,7 +6,7 @@ Esta es una actividad de prueba
 > Esto es na nota!
 
 Consultar la imagen
-!{imagen} {./magen1.png}
+!{imagen} {./imagen1.png}
 
 Como podemos ver en la imagen ... blablabla
 
